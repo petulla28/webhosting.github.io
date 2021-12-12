@@ -1,0 +1,13 @@
+
+.social-media{
+   background-color: green;
+   color: white;
+   overflow-x: hidden;
+}
+
+.social-media img {
+    height: 50px;
+    width: 50px;
+    align-items: center;
+}
+ 
